@@ -1,4 +1,6 @@
-# contributors: Gonen Davidi, Sarit Hollander, Tslil Barmi
+# Superleague-Vue 
+
+contributors: Gonen Davidi, Sarit Hollander, Tslil Barmi
 
 first run to init dependencies:
 npm i
