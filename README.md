@@ -1,13 +1,7 @@
-# league-vue
+# contributors: Gonen Davidi, Sarit Hollander, Tslil Barmi
 
-Suprliga client
-
-206172686_207945841_313304578
-
-
-first run:
+first run to init dependencies:
 npm i
 
-to debug:
-npm run serve
-localhost:8080
+to run locally: 
+npm run serve localhost:8080
